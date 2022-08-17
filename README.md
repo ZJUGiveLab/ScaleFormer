@@ -14,16 +14,9 @@ We will upload the dataset later.
 - python 3.7
 - pytorch 1.9.0
 - torchvision 0.10.0
-## 3.Train/Test
-- Run the train script on synapse dataset. The batch size can be reduced to 12 or 6 to save memory (please also decrease the base_lr linearly), and both can reach similar performance.  
-```
-python train.py
-```
-- Run the test script on synapse dataset. It supports testing for both 2D images and 3D volumes.
-```
-python test.py
-```
-## 4.Reference
+ test.py
+
+## 3.Reference
 - [TransUnet](https://github.com/Beckschen/TransUNet)
 - [SwinUnet](https://github.com/HuCaoFighting/Swin-Unet)
 - [UcTransNet](https://github.com/McGregorWwww/UCTransNet)
