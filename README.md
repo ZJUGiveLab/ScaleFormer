@@ -1,5 +1,4 @@
-# ScaleFormer
-The code is for paper:ScaleFormer: Revisiting the Transformer-based Backbones from a Scale-wise Perspective for Medical Image Segmentation
+# ScaleFormer: Revisiting the Transformer-based Backbones from a Scale-wise Perspective for Medical Image Segmentation
 ## 1.Dataset
 - **Synapse:**  
 The dataset we used is provided by TransUnet's authors. Please go to [link](https://github.com/Beckschen/TransUNet) for details, or please send an Email to jienengchen01 AT gmail.com to request the preprocessed data. If you would like to use the preprocessed data, please use it for research purposes and do not redistribute it (following the TransUnet's License).  
